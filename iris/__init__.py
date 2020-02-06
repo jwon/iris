@@ -15,7 +15,7 @@ Please use either:
   - pip install info.gianlucacosta.iris
   - https://pypi.python.org/pypi/info.gianlucacosta.iris
 
-**irisapi** - Python integration for Illumon Iris, a time-series database
+**irisapi** - Iris is a highly configurable and flexible service for paging and messaging
   - pip install irisapi
   - https://pypi.org/project/irisapi/
   - https://iris.claims/
